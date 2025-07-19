@@ -1,23 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm Dilan — Full-Stack Web Developer
 
-<!--
-**dilandev0010/dilandev0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about building creative, media-rich web applications that balance performance and design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Project
 
-### 📊 GitHub Stats
+#### 👣 [FxxtQueen’s Gallery](https://fxxtqueens.site/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilandev0010&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilandev0010&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+A modern modeling portfolio and media gallery platform.
+
+> Built using **React**, **Node.js**, **PHP**, and **MySQL**  
+> With support for:  
+> - 📸 Responsive galleries for images/videos  
+> - 🖼️ Fullscreen modals with zoom and swipe  
+> - 💾 Bookmarking & liking  
+> - 🌗 Light/dark mode themes  
+> - 🎯 Pagination with infinite scroll support  
+
+[🔗 Visit FxxtQueen’s Gallery →](https://fxxtqueens.site/)
+
+---
+
+### 🛠️ Tech Stack
+
+```txt
+Frontend:   React, Tailwind CSS, TypeScript, Vite  
+Backend:    Node.js, Express, PHP, MySQL  
+Tools:      Docker, Apache, Nginx, Git, Postman  
+Features:   API integration, Modal UI, Lazy loading, Pagination  
