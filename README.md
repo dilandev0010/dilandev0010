@@ -5,9 +5,6 @@
   <a href="https://fxxtqueens.site" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌐%20FxxtQueen's%20Gallery-Visit%20Site-blueviolet?style=flat-square">
   </a>
-  <a href="mailto:your@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/📫%20Email%20Me-your@email.com-blue?style=flat-square">
-  </a>
   <img src="https://komarev.com/ghpvc/?username=dilandev0010&style=flat-square&color=green" alt="Profile Views" />
 </p>
 
