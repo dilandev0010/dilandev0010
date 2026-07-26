@@ -9,4 +9,4 @@ strip.chat
 chapturist.com
 strpst.com
 assets.stripst.com
-img.stripst.com
+img.strpst.com
