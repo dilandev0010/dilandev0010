@@ -1,33 +1,32 @@
-# [Dilans's AdBlocker]
+# [Dilans's AdBlocker - Exact Domain Regex]
 
 # Archives & Databases
-web.archive.org
-coomer.st
-nsfwalbum.com
-archivebate.com
-www.camshowarchives.com
-x-x-x.tube
-pornx.tube
-porngameshub.com
-www.data18.com
+(^|\.)coomer\.st$
+(^|\.)nsfwalbum\.com$
+(^|\.)archivebate\.com$
+(^|\.)camshowarchives\.com$
+(^|\.)x-x-x\.tube$
+(^|\.)pornx\.tube$
+(^|\.)porngameshub\.com$
+(^|\.)data18\.com$
 
 # Adult Content (18+)
-www.eporner.com
-pornxnow.me
-pornmz.com
-pornheal.com
-xorgasmo.com
-x-video.tube
-sexfree.tube
-xfree.tube
-internetchicks.com
-www.porn00.org
-pimpbunny.com
-www.extreme.adult
-strip.chat
-funwithfeet.com
-footfetishvid.com
-wikifeetx.com
-footadoration.com
-jpg6.su
-x-fetish.tube
+(^|\.)eporner\.com$
+(^|\.)pornxnow\.me$
+(^|\.)pornmz\.com$
+(^|\.)pornheal\.com$
+(^|\.)xorgasmo\.com$
+(^|\.)x-video\.tube$
+(^|\.)sexfree\.tube$
+(^|\.)xfree\.tube$
+(^|\.)internetchicks\.com$
+(^|\.)porn00\.org$
+(^|\.)pimpbunny\.com$
+(^|\.)extreme\.adult$
+(^|\.)strip\.chat$
+(^|\.)funwithfeet\.com$
+(^|\.)footfetishvid\.com$
+(^|\.)wikifeetx\.com$
+(^|\.)footadoration\.com$
+(^|\.)jpg6\.su$
+(^|\.)x-fetish\.tube$
