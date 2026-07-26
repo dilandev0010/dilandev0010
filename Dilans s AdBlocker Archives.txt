@@ -1,5 +1,34 @@
 # [Dilans's AdBlocker - Exact Domain Regex]
 
+# Plain Domains
+coomer.st
+nsfwalbum.com
+archivebate.com
+camshowarchives.com
+x-x-x.tube
+pornx.tube
+porngameshub.com
+data18.com
+eporner.com
+pornxnow.me
+pornmz.com
+pornheal.com
+xorgasmo.com
+x-video.tube
+sexfree.tube
+xfree.tube
+internetchicks.com
+porn00.org
+pimpbunny.com
+extreme.adult
+strip.chat
+funwithfeet.com
+footfetishvid.com
+wikifeetx.com
+footadoration.com
+jpg6.su
+x-fetish.tube
+
 # Archives & Databases
 (^|\.)coomer\.st$
 (^|\.)nsfwalbum\.com$
@@ -31,32 +60,3 @@
 (^|\.)jpg6\.su$
 (^|\.)x-fetish\.tube$
 (^|\.)strpst\.com$
-
-# [Dilans's AdBlocker - Plain Domains]
-coomer.st
-nsfwalbum.com
-archivebate.com
-camshowarchives.com
-x-x-x.tube
-pornx.tube
-porngameshub.com
-data18.com
-eporner.com
-pornxnow.me
-pornmz.com
-pornheal.com
-xorgasmo.com
-x-video.tube
-sexfree.tube
-xfree.tube
-internetchicks.com
-porn00.org
-pimpbunny.com
-extreme.adult
-strip.chat
-funwithfeet.com
-footfetishvid.com
-wikifeetx.com
-footadoration.com
-jpg6.su
-x-fetish.tube
